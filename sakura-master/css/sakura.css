@@ -247,12 +247,14 @@ label, legend, fieldset {
   flex-wrap: wrap;
   gap: 90px;
   list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+  background_color: #9e9e9e;
 }
 
 .navbar ul {
   padding: 0;
   margin: 0;
-  background_color: #9e9e9e;
 }
 
 .navbar p {
