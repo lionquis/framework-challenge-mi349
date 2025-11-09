@@ -266,6 +266,10 @@ h6, .h6 {
   font-size: 1rem;
 }
 
+.centered {
+  text-align: center;
+}
+
 p {
   margin-top: 0;
   margin-bottom: 1rem;
