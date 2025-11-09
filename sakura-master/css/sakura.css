@@ -263,3 +263,7 @@ label, legend, fieldset {
 .navbar a {
   padding-bottom: 5px;
 }
+
+.centered {
+  text-align: center;
+}
