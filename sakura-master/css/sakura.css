@@ -242,15 +242,12 @@ label, legend, fieldset {
   font-weight: 600;
 }
 
-.navbar {
-  gap: 10px;
-  list-style-type: none;
-}
-
 .navbar ul {
   padding: 0;
   margin: 0;
   background_color: #9e9e9e;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .navbar p {
