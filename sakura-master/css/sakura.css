@@ -248,6 +248,7 @@ label, legend, fieldset {
   background_color: #9e9e9e;
   display: flex;
   flex-wrap: wrap;
+  list-style-type: none;
 }
 
 .navbar p {
