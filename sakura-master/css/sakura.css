@@ -247,7 +247,7 @@ label, legend, fieldset {
 .navbar {
   display: flex;
   flex-wrap: wrap;
-  gap: 90px;
+  gap: 85px;
   list-style-type: none;
 }
 
