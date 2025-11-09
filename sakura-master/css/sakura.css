@@ -241,3 +241,8 @@ label, legend, fieldset {
   margin-bottom: 0.5rem;
   font-weight: 600;
 }
+
+.centered {
+  text-align: center;
+  display: block;
+}
