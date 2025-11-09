@@ -12043,10 +12043,9 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
-}
-
-.center-container {
-  text-align: center;
+  .center-container {
+    text-align: center;
+  }
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
