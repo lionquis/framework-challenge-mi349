@@ -274,7 +274,7 @@ nav.navbar p {
 
 .navbar a{
   color: #000000;
-  padding: 30px;
+  margin-right: 30px;
   display: inline-block;
   text-align: center;
 }
