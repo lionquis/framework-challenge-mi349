@@ -275,6 +275,7 @@ nav.navbar p {
 .navbar a{
   color: #000000;
   margin-right: 62.5px;
+  margin-left: 15px
   display: inline-block;
   text-align: center;
 }
