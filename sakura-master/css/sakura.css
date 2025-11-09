@@ -246,10 +246,13 @@ label, legend, fieldset {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
-  margin-bottom: 20px;
   list-style-type: none;
+}
+
+.navbar ul {
+  padding: 0;
+  margin: 0;
   background_color: #9e9e9e;
-  padding: 0px;
 }
 
 .navbar p {
