@@ -266,10 +266,6 @@ h6, .h6 {
   font-size: 1rem;
 }
 
-.center-container {
-  text-align: center;
-}
-
 p {
   margin-top: 0;
   margin-bottom: 1rem;
@@ -12047,6 +12043,10 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+
+.center-container {
+  text-align: center;
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
