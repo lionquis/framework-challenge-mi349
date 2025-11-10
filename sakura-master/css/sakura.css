@@ -325,6 +325,12 @@ nav.navbar p {
   margin-left:auto; 
 }  
 
+.menu-image { 
+  width:100%; 
+  height:auto; 
+  border-radius:6px; 
+}
+
 .menu-row { 
   display:flex; 
   align-items:center; 
