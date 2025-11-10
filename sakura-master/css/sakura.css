@@ -326,8 +326,8 @@ nav.navbar p {
 }  
 
 .menu-image { 
-  width:1000px; 
-  height:250px; 
+  width:100%; 
+  height:auto; 
   border-radius:6px; 
 }
 
