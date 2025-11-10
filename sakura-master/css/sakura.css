@@ -324,6 +324,13 @@ nav.navbar p {
   margin-left:auto; 
 }  
 
+.menu-title { 
+  font-weight:700; 
+  color:#2b2b2b; 
+  margin-right:auto; 
+}  
+
+
 .menu-row { 
   display:flex; 
   align-items:center; 
