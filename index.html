@@ -22,7 +22,7 @@
 
     <h1 class="centered">Cafe Laneau</h1>
     <p class="centered">Artisanal coffee roastery & cafe in Laeken, Brussels</p>
-    <img src="coffee-shop-interior-unsplash.jpg" alt="Cafe Laneau storefront with indoor seating" style="width:100%;max-width:600px;height:300px;" class="centered"/>
+    <img src="images/coffee-shop-interior-unsplash.jpg" alt="Cafe Laneau storefront with indoor seating" style="width:100%;max-width:600px;height:300px;" class="centered"/>
 
     <section id="about" class="card" aria-labelledby="about-heading">
       <main>
@@ -43,6 +43,57 @@
           <li>Place a quick pickup order below or order in-person.</li>
           <li>Collect from our counter inside the store.</li>
         </ol>
+      </section>
+
+      <section id="menu" class="card" aria-labelledby="menu-heading">
+        <h2 id="menu-heading">Menu — Coffee & Pastries</h2>
+        <p class="muted">A selection of our most-loved drinks and baked treats. Click an item to see more details or order at the counter.</p>
+
+        <div class="menu-grid" role="list">
+          <article class="menu-item" role="listitem" aria-labelledby="latte-title">
+            <figure>
+              <img src="images/latte-tabitha-turner-3n3mPoGko8g-unsplash.jpg" alt="Latte" />
+              <figcaption class="sr-only">Latte — smooth steamed milk with espresso</figcaption>
+            </figure>
+            <div class="menu-row">
+              <h4 id="latte-title">Caffe Latte</h4>
+              <span class="price">€3.50</span>
+            </div>
+            <p class="muted">Espresso combined with steamed milk and a thin layer of foam. Balanced and creamy.</p>
+          </article>
+          <article class="menu-item" role="listitem" aria-labelledby="espresso-title">
+            <figure>
+              <img src="images/espresso.png" alt="Espresso" />
+            </figure>
+            <div class="menu-row">
+              <h4 id="espresso-title">Espresso</h4>
+              <span class="price">€2.00</span>
+            </div>
+            <p class="muted">Single-origin espresso, pulled to highlight brightness and body. Ask for a double if you like extra strength.</p>
+          </article>
+
+          <article class="menu-item" role="listitem" aria-labelledby="iced-title">
+            <figure>
+              <img src="images/iced-coffee.png" alt="Iced coffee" />
+            </figure>
+            <div class="menu-row">
+              <h4 id="iced-title">Iced Coffee</h4>
+              <span class="price">€3.80</span>
+            </div>
+            <p class="muted">Cold-brewed or shaken with ice, but always refreshing and bright. Optional milk or plant-based alternatives available.</p>
+          </article>
+
+          <article class="menu-item" role="listitem" aria-labelledby="chai-title">
+            <figure>
+              <img src="images/chai-latte.png" alt="Chai Latte" />
+            </figure>
+            <div class="menu-row">
+              <h4 id="croissant-title">Chai Latte</h4>
+              <span class="price">€3.50</span>
+            </div>
+            <p class="muted">A sweet chai latte flavored with cinnamon - a great drink for a cold day.</p>
+          </article>
+        </div>
       </section>
 
       <section id="order" class="card" aria-labelledby="order-heading">
