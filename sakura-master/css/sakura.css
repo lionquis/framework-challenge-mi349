@@ -253,6 +253,12 @@ label, legend, fieldset {
   display: block;
 }
 
+.muted-centered {
+  color: #7a7a7a;
+  text-align: center;
+  display: block;
+}
+
 nav.navbar p {
   display: inline;
   margin-right: 15px;
