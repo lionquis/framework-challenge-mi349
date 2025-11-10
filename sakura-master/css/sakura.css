@@ -308,9 +308,8 @@ nav.navbar p {
 }
 
 .menu-item img { 
-  width:100%; 
-  max-width:180px; 
-  height:auto; 
+  width:150px; 
+  height:250px; 
   border-radius:6px; 
 }
 
@@ -324,12 +323,6 @@ nav.navbar p {
   color:#2b2b2b; 
   margin-left:auto; 
 }  
-
-.menu-image { 
-  width:150px; 
-  height:250px; 
-  border-radius:6px; 
-}
 
 .menu-row { 
   display:flex; 
